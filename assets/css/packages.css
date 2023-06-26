@@ -24,7 +24,7 @@
 		grid-row-gap: 7rem;
 	}
 
-	&__item {
+	.package__item {
 		height: 100%;
 		transition: all ease-in-out .3s;
 
