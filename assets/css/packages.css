@@ -1,7 +1,3 @@
-html, body {
-	/*background-color: #2B3A4C;*/
-}
-
 .package {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
